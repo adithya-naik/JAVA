@@ -4,9 +4,9 @@ public class ArithmeticOperations {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter first number : ");
-        int a = s.nextInt();
+        float a = s.nextFloat();
         System.out.print("Enter Second number : ");
-        int b = s.nextInt();
+        float b = s.nextFloat();
         System.out.println("Addition : "+(a+b));
         System.out.println("Substraction : "+(a-b));
         System.out.println("Multiplication : "+(a*b));
