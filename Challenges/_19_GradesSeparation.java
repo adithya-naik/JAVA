@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Grades_Separation {
+public class _19_GradesSeparation {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter your Percentage : ");

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Rect_Perimeter {
+public class _10_RectPerimeter {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter length of the rectangle : ");

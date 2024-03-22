@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Compound_Interest {
+public class _12_SimpleInterest {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the Principal amount : ");
@@ -9,7 +9,7 @@ public class Compound_Interest {
         float t = s.nextFloat();
         System.out.print("Enter the Rate Percentage : ");
         float r = s.nextFloat();
-        System.out.println("The Compound Interest  = Rs."+p*(Math.pow((1+(r/100.0f)),t)));
+        System.out.println("The Simple Interest  = Rs."+(p*t*r)/(100.0f));
         s.close();
     }
 }
