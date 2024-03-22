@@ -1,12 +1,9 @@
 
-                                                                 JAVA - PART 1 
-
-                           
-                                                                                    
-                                                                                    
---------------------------------------------------------
+                                                                 JAVA-->[PART~1] ☕
+                                                                        
+---------------------------------------------
 List of Programming Challenges Solved:                                                                        
-----------------------------------------------
+---------------------------------------------
 
 1.	Create a class to output “good morning” using a text editor and check output.
 
