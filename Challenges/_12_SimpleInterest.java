@@ -11,5 +11,6 @@ public class _12_SimpleInterest {
         float r = s.nextFloat();
         System.out.println("The Simple Interest  = Rs."+(p*t*r)/(100.0f));
         s.close();
+        
     }
 }
