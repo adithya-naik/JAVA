@@ -1,8 +1,7 @@
 
                                                                  JAVA - PART 1 
 
-                           
-                                                                                    
+                                                                    
                                                                                     
 --------------------------------------------------------
 List of Programming Challenges Solved:                                                                        
