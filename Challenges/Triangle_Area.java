@@ -8,5 +8,6 @@ public class Triangle_Area {
         System.out.print("Enter height of the Triangle : ");
         float h = s.nextFloat();
         System.out.println("The Area of the Triangle is : "+((0.5)*(b*h)));
+        s.close();
     }
 }

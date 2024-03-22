@@ -11,5 +11,6 @@ public class Even_Odd {
         else{
             System.out.println("Odd Number");
         }
+        s.close();
     }
 }

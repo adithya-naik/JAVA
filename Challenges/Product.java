@@ -7,5 +7,6 @@ public static void main(String[] args) {
     System.out.print("Enter the second number : ");
     float num2 = s.nextFloat();
     System.out.println("The Product of "+num1 + " and "+ num2+" = "+(num1*num2));
+    s.close();
 }
 }

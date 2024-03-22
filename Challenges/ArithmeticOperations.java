@@ -12,7 +12,7 @@ public class ArithmeticOperations {
         System.out.println("Multiplication : "+(a*b));
         System.out.println("Division : "+(a/b));
         System.out.println("Modulus : "+(a%b));
-
+        s.close();
 
     }
 }

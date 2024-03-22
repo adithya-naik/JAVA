@@ -7,8 +7,6 @@ public class Pattern3 {
         System.out.println("      *  *  *");
         System.out.println("   *  *  *  *");
         System.out.println("*  *  *  *  *");
-    }
-    public static void rep(){
-        System.out.print(" ");
+       
     }
 }

@@ -15,6 +15,7 @@ public class Positive_Negative_Zero {
         else{
             System.out.println("Number is equals Zero");
         }
+        s.close();
     }
     
 }

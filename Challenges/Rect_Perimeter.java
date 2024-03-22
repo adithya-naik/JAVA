@@ -7,5 +7,6 @@ public class Rect_Perimeter {
         System.out.print("Enter breadth of the rectangle : ");
         float b = s.nextFloat();
         System.out.println("The Perimeter of the rectangle is : "+(2*(l+b)));
+        s.close();
     }
 }

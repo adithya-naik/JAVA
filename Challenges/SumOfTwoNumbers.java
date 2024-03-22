@@ -9,5 +9,6 @@ public class SumOfTwoNumbers {
         double num2 = s.nextDouble();
         double sum = num1 + num2;
         System.out.println("The sum : " + sum);
+        s.close();
     }
 }
