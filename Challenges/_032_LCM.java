@@ -11,10 +11,10 @@ public class _032_LCM {
         s.close();
     }
     public static int lcm(int n1,int n2){
-        int res=0;
         for(int i=1;;i++){
             if((n1*i)%n2 == 0){
-                return res= n1*i;
+                int res= n1*i;
+                return res;
             }
         }
     }

@@ -7,6 +7,8 @@ public class _031_SumOfDigits {
         int n = s.nextInt();
         int res = sumDigits(n);
         System.out.println("The Sum of the digits of "+ n + " is  = "+ res);
+        s.close();
+
     }
     
     public static int sumDigits(int number){

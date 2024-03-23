@@ -16,5 +16,6 @@ public class _034_IsPrime {
         else{
             System.out.println(n1 + " is Prime");
         }
+        s.close();
     }
 }
