@@ -22,5 +22,6 @@ public class _19_GradesSeparation {
             System.out.println("E Grade");
         }
         s.close();
+        
     }
 }
