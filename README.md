@@ -1,4 +1,4 @@
-JAVA-->[PART~1] ☕
+Java ☕ -->[PART~1] 
 Please find the source code in Challenges directory                                                                        
 ---------------------------------------------
 List of Programming Challenges Solved:                                                                        
