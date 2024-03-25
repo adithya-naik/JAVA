@@ -22,7 +22,7 @@ https://github.com/adithya-naik/JAVA/tree/main/Challenges
 
 ## Challenges:
 The challenges cover a wide range of topics, including:
--Data Structures(Arrays etc.. ) 
+- Data Structures(Arrays etc.. ) 
 - Algorithms (Dynamic programming, etc.)
 - String manipulation
 - Math problems
