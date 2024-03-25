@@ -7,3 +7,5 @@ Welcome to the Java Challenges Repository! Here, you'll find over 100+ challenge
 Dive into the code and start your Java journey today!
 
 Happy coding! 😊
+
+Make sure you open the file "https://github.com/adithya-naik/JAVA/blob/main/Challenges%2F_000_Open%20this%20for%20Challenges.md" 
