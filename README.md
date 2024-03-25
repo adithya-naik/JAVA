@@ -1,6 +1,6 @@
------------------------------------------------ Complete JAVA ☕
+Complete JAVA ☕
 -----------------------------------------------
-# Java 100+ Challenges Repository
+#100+ Challenges Repository
 -----------------------------------------------
  **solving 100+ coding challenges in Java**
 
