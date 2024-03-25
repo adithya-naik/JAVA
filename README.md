@@ -91,5 +91,5 @@ List of Programming Challenges Solved:
 
 38.	Create a program to verify if a number is a palindrome.
 
-39.	Create a program that print patterns using loops.
+39.	Create a program that print patterns using loops(Challenge No.3). 
 
