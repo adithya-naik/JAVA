@@ -16,5 +16,6 @@ public class _039_c_Pattern3Loops {
             System.out.println();
         }
         s.close();
+        
     }
 }
