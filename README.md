@@ -8,7 +8,7 @@ Dive into the code and start your Java journey today!
 
 Happy coding! 😊
 
-Make sure you open these files :
+Make sure you open these files:
 -----------------------------------------------
 1. For problem statements: https://github.com/adithya-naik/JAVA/blob/main/Challenges%2F_000_Open%20this%20for%20Challenges.md
 
