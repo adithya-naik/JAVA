@@ -1,6 +1,4 @@
-JAVA ☕ -->[PART~1] 
-
-Please find the source code in Challenges directory                                                                        
+Complete JAVA ☕ 
 ---------------------------------------------
 List of Programming Challenges Solved:                                                                        
 ---------------------------------------------
