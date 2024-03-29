@@ -91,3 +91,90 @@ List of Programming Challenges Solved:
 
 39.	Create a program that print patterns using loops(Challenge No.3). 
 
+40.	Create a program to find the sum and average of all elements in an array.
+
+41.	Create a program to find number of occurrences of an element in an array.
+
+42.	Create a program to find the maximum and minimum element in an array.
+
+43.	Create a program to check if the given array is sorted.
+
+44.	Create a program to return a new array deleting a specific element.
+
+45.	Create a program to reverse an array.
+
+46.	Create a program to check is the array is palindrome or not.
+
+47.	Create a program to merge two sorted arrays.
+
+48.	Create a program to search an element in a 2-D array.
+
+49.	Create a program to do sum and average of all elements in a 2-D array.
+
+50.	Create a program to find the sum of two diagonal elements.
+
+51.	Create a Book class for a library system.
+      ``Instance variables:`` title, author, isbn.
+      ``Static variable:``totalBooks, a counter for the total number of book instances.
+      ``Instance methods:`` borrowBook(), returnBook().
+      ``Static method:`` getTotalBooks(), to get the total number of books in the library.
+
+52.	Design a Course class.
+      ``Instance variables:`` courseName, enrolledStudents.
+      ``Static variable:`` maxCapacity, the maximum number of students for any course.
+      ``Instance methods:``enrollStudent(String studentName), unenrollStudent(String studentName).
+     ``Static method:`` setMaxCapacity(int capacity), to set the maximum capacity for courses.
+
+53.   Create a program to find the minimum of two numbers.
+
+54.   Create a program to find if the given number is even or odd.
+
+55.   Create a program to calculate the absolute value of a given integer.
+
+56.   Create a program to Based on a student's score, categorize as "High", "Moderate", or "Low" using the ternary operator (e.g., High for scores > 80, Moderate for 50-80, Low for < 50).
+
+57.   Create a program to print the month of the year based on a number (1-12) input by the user.
+
+58.   Create a program to create a simple calculator that uses a switch statement to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+59.   Create a program using do-while to find password checker until a valid password is entered.
+
+60.   Create a program using do-while to implement a number guessing game.
+
+61.   Create a program using for loop multiplication table for a number.
+
+62.   Create a program using for to display if a number is prime or not.
+
+63.   Create a program using for-each to find the maximum value in an integer array.
+
+64.   Create a program using for-each to the occurrences of a specific element in an array.
+
+65.   Create a program using break to read inputs from the user in a loop and break the loop if a specific keyword (like "exit") is entered.
+
+66.   Create a program using continue to sum all positive numbers entered by the user; skip any negative numbers.
+
+67.   Create a program using continue to print only even numbers using continue for odd numbers.
+
+68.   Create a program using recursion to display the Fibonacci series upto a certain number.
+
+69.   Create a program using recursion to check if a string is a palindrome using recursion.
+
+70.   Define a Student class with fields like name and age, and use toString to print student details.
+
+71.   Concatenate and Convert: Take two strings, concatenate them, and convert the result to uppercase.
+
+72.   Calculate the area and circumference of a circle for a given radius using Math.PI
+
+73.   Simulate a dice roll using Math.random() and display the outcome (1 to 6).
+
+74.   Create a number guessing game where the program selects a random number, and the user has to guess it.
+
+75.   Take an array of words and concatenate them into a single string using StringBuilder.
+
+76.   Create an object with final fields and a constructor to initialize them.
+
+77.   Create a simple application with at least two packages: com.example.geometry and com.example.utils. In the geometry package, define classes like Circle and Rectangle. In the utils package, create a Calculator class that can compute areas of these shapes.
+
+78.   Define a BankAccount class with private attributes like accountNumber, accountHolderName, and balance. Provide public methods to deposit and withdraw money, ensuring that these methods don't allow illegal operations like withdrawing more money than the current balance.
+
+79.   Define a class Employee with private attributes (like name, age, and salary), public methods to get and set these attributes, and a package-private method to displayEmployeeDetails. Create another class in the same package to test access to the displayEmployeeDetails method.
