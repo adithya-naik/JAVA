@@ -8,8 +8,8 @@ public class _023_BitwiseXOR {
         System.out.print("Enter second number : ");
         int second = s.nextInt();
         int result = first ^ second;
-        System.out.println("Bitwise XOR result : "+result);
+        System.out.println("Bitwise XOR result : " + result);
         s.close();
     }
-    
+
 }

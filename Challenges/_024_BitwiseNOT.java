@@ -6,9 +6,8 @@ public class _024_BitwiseNOT {
         System.out.print("Enter first number : ");
         int first = s.nextInt();
         int result = ~first;
-        System.out.println("Bitwise NOT result : "+result);
+        System.out.println("Bitwise NOT result : " + result);
         s.close();
     }
-    
-}
 
+}

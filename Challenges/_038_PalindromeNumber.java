@@ -13,8 +13,9 @@ public class _038_PalindromeNumber {
         }
         s.close();
     }
+
     public static boolean isPalindrome(int n) {
-        int number=n;
+        int number = n;
         int newNum = 0, rem = 0;
         while (number > 0) {
             rem = number % 10;

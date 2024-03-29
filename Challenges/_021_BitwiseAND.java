@@ -8,8 +8,8 @@ public class _021_BitwiseAND {
         System.out.print("Enter second number : ");
         int second = s.nextInt();
         int result = first & second;
-        System.out.println("Bitwise AND result : "+result);
+        System.out.println("Bitwise AND result : " + result);
         s.close();
     }
-    
+
 }

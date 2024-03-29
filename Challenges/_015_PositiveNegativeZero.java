@@ -5,17 +5,15 @@ public class _015_PositiveNegativeZero {
         Scanner s = new Scanner(System.in);
         System.out.print("Enter the number : ");
         float n = s.nextInt();
-        if(n>0){
+        if (n > 0) {
             System.out.println("Number is Positive");
 
-        }
-        else if(n<0){
+        } else if (n < 0) {
             System.out.println("Number is Negative");
-        }
-        else{
+        } else {
             System.out.println("Number is equals Zero");
         }
         s.close();
     }
-    
+
 }

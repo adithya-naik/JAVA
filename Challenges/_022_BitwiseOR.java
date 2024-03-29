@@ -8,8 +8,8 @@ public class _022_BitwiseOR {
         System.out.print("Enter second number : ");
         int second = s.nextInt();
         int result = first | second;
-        System.out.println("Bitwise OR result : "+result);
+        System.out.println("Bitwise OR result : " + result);
         s.close();
     }
-    
+
 }

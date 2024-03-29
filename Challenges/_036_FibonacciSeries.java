@@ -7,12 +7,12 @@ public class _036_FibonacciSeries {
         int n = s.nextInt();
         int c = 0, a = 0, b = 1;
         System.out.println("Series Goes .........");
-        System.out.print(a+" ");
-        System.out.print(b+" ");
+        System.out.print(a + " ");
+        System.out.print(b + " ");
 
-        while ((a+b) <= n) {
+        while ((a + b) <= n) {
             c = a + b;
-            System.out.print(c+ "  ");
+            System.out.print(c + "  ");
             a = b;
             b = c;
         }

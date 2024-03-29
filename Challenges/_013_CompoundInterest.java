@@ -9,7 +9,7 @@ public class _013_CompoundInterest {
         float t = s.nextFloat();
         System.out.print("Enter the Rate Percentage : ");
         float r = s.nextFloat();
-        System.out.println("The Compound Interest  = Rs."+p*(Math.pow((1+(r/100.0f)),t)));
+        System.out.println("The Compound Interest  = Rs." + p * (Math.pow((1 + (r / 100.0f)), t)));
         s.close();
     }
 }

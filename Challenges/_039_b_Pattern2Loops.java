@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 // reverse right half pyramid
 public class _039_b_Pattern2Loops {
     public static void main(String[] args) {
