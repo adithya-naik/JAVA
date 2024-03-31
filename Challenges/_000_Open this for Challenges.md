@@ -111,7 +111,7 @@ List of Programming Challenges Solved:
 
 49.	Create a program to do sum and average of all elements in a 2-D array.
 
-50.	Create a program to find the sum of two diagonal elements.
+50.	Create a program to find the sum of two Principal diagonal elements.
 
 51.	Create a Book class for a library system.
       ``Instance variables:`` title, author, isbn.
