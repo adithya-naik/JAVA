@@ -8,7 +8,8 @@ Welcome to the Java Challenges Repository! Here, you'll find over 100+ challenge
 
 Make sure you open these files:
 -----------------------------------------------
-- For problem statements: https://github.com/adithya-naik/JAVA/blob/main/Challenges%2F_000_Open%20this%20for%20Challenges.md
+- For problem statements:
+https://github.com/adithya-naik/JAVA/blob/main/SOLVED%20CHALLENGES%2F_000_Open%20this%20for%20Challenges.md
 
 - For Solved Challenges :
 https://github.com/adithya-naik/JAVA/tree/main/SOLVED%20CHALLENGES
