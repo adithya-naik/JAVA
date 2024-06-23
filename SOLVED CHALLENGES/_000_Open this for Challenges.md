@@ -263,13 +263,14 @@ List of Programming Challenges Solved:
 
 
 **PATTERNS**
+
 ``
 
-1.  *****
-    *****
-    *****
-    *****
-    *****
+1.  *****            
+    *****  
+    *****   
+    *****   
+    *****  
 
 
 2.  *
