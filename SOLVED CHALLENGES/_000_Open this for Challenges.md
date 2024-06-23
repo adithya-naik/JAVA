@@ -264,7 +264,7 @@ List of Programming Challenges Solved:
 
 **PATTERNS**
 
-``
+
 
 1.  *****            
     *****  
@@ -533,4 +533,3 @@ List of Programming Challenges Solved:
        123  321
        12344321
 
-   ``
